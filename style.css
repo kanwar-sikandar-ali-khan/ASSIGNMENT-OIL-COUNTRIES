@@ -1,0 +1,41 @@
+h1{
+    text-align: center;
+    color: black;
+    margin: 80px;
+}
+
+p{
+    background-color:black;
+    color: white;
+    font-weight: bolder;
+}
+
+body{
+    background-image: url(https://c8.alamy.com/comp/KTWYDC/industrial-view-at-oil-refinery-plant-form-industry-zone-with-sunrise-KTWYDC.jpg);
+
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+img{
+ margin-left: 460px;
+}
+
+h2{
+    color: black;
+    font-weight: bolder;
+}
+h3{
+    background-color: black;
+    text-align: center;
+    margin: 100px;
+    color: white;
+    
+    
+
+
+}
+
+a{
+    text-decoration: none;
+}
